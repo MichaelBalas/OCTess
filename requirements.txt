@@ -1,0 +1,7 @@
+numpy
+pandas
+pdf2image
+pytesseract
+opencv-python
+openpyxl
+Jinja2
