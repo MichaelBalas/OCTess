@@ -18,7 +18,7 @@ preferred-citation:
   - family-names: "Herman"
     given-names: "Josh"
   - family-names: "Bhambra"
-    given-names: "Nishaant (Shaan)"
+    given-names: "Nishaant"
   - family-names: "Longwell"
     given-names: "Jack"
   - family-names: "Popovic"
@@ -30,9 +30,9 @@ preferred-citation:
   doi: "10.0000/00000"
   journal: "RETINA"
   month: 11
-  start: 1 # First page number
-  end: 10 # Last page number
+  #start: 1 # First page number
+  #end: 10 # Last page number
   title: "OCTess: An Optical Character Recognition Algorithm for Automated Data Extraction of Spectral Domain Optical Coherence Tomography Reports"
-  issue: 1
-  volume: 1
+  #issue: 1
+  #volume: 1
   year: 2023
