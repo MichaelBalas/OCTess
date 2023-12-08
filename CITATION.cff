@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Balas"
+  given-names: "Michael"
+  orcid: "https://orcid.org/0000-0002-5948-0331"
+title: "OCTess"
+version: 2.0.4
+doi: 10.1097/IAE.0000000000003990
+date-released: 2023-11-06
+url: "https://github.com/MichaelBalas/OCTess"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Balas"
+    given-names: "Michael"
+    orcid: "https://orcid.org/0000-0002-5948-0331"
+  - family-names: "Herman"
+    given-names: "Josh"
+  - family-names: "Bhambra"
+    given-names: "Nishaant (Shaan)"
+  - family-names: "Longwell"
+    given-names: "Jack"
+  - family-names: "Popovic"
+    given-names: "Marko"
+  - family-names: "Melo"
+    given-names: "Isabela"
+  - family-names: "Muni"
+    given-names: "Rajeev"
+  doi: "10.0000/00000"
+  journal: "RETINA"
+  month: 11
+  title: "OCTess: An Optical Character Recognition Algorithm for Automated Data Extraction of Spectral Domain Optical Coherence Tomography Reports"
+  year: 2023

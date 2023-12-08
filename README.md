@@ -34,13 +34,11 @@ We welcome contributions to improve the algorithm or expand its applicability. P
 
 ## Author Contact:
 Michael Balas: [michael.balas@mail.utoronto.ca](mailto:michael.balas@mail.utoronto.ca?subject=[GitHub]%20OCTess%20Inquiry)
+
 Rajeev H. Muni: [rajeev.muni@utoronto.ca](mailto:rajeev.muni@utoronto.ca?subject=[Github]%20OCTess%20Inquiry)
 
 ## License
 This project is licensed under the GNU GPLv3 License. See the ```LICENSE``` file for details.
 
-## Citation
-If you use this code or the results from our research paper in your work, please cite the paper using the following format:
+![OCTess Logo](OCTess.png)
 
-```Balas M, Herman J, Bhambra NS, Longwell J, Popovic MM, Melo IM, Muni RH. OCTess: An Optical Character Recognition Algorithm for Automated Data Extraction of Spectral Domain Optical Coherence Tomography Reports. RETINA. 2022 May 
-12:10-97.```
