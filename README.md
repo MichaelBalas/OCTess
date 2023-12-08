@@ -40,5 +40,10 @@ Rajeev H. Muni: [rajeev.muni@utoronto.ca](mailto:rajeev.muni@utoronto.ca?subject
 ## License
 This project is licensed under the GNU GPLv3 License. See the ```LICENSE``` file for details.
 
+## Citation
+If you use this code or the results from our research paper in your work, please cite the paper using the following format:
+
+`Balas, M., Herman, J., Bhambra, N., Longwell, J., Popovic, M., Melo, I., & Muni, R. (2023). OCTess: An Optical Character Recognition Algorithm for Automated Data Extraction of Spectral Domain Optical Coherence Tomography Reports. RETINA. https://doi.org/10.0000/00000`
+
 ![OCTess Logo](OCTess.png)
 
