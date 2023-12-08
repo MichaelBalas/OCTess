@@ -1,32 +1,38 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "Lisa"
-  given-names: "Mona"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-- family-names: "Bot"
-  given-names: "Hew"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Balas"
+  given-names: "Michael"
+  orcid: "https://orcid.org/0000-0002-5948-0331"
 title: "My Research Software"
-version: 2.0.4
-doi: 10.5281/zenodo.1234
-date-released: 2017-12-18
-url: "https://github.com/github-linguist/linguist"
+version: 1.0.0
+doi: 10.1097/IAE.0000000000003990
+date-released: 2023-11-06
+url: "https://github.com/MichaelBalas/OCTess"
 preferred-citation:
   type: article
   authors:
-  - family-names: "Lisa"
-    given-names: "Mona"
-    orcid: "https://orcid.org/0000-0000-0000-0000"
-  - family-names: "Bot"
-    given-names: "Hew"
-    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Balas"
+    given-names: "Michael"
+    orcid: "https://orcid.org/0000-0002-5948-0331"
+  - family-names: "Herman"
+    given-names: "Josh"
+  - family-names: "Bhambra"
+    given-names: "Nishaant (Shaan)"
+  - family-names: "Longwell"
+    given-names: "Jack"
+  - family-names: "Popovic"
+    given-names: "Marko"
+  - family-names: "Melo"
+    given-names: "Isabela"
+  - family-names: "Muni"
+    given-names: "Rajeev"
   doi: "10.0000/00000"
-  journal: "Journal Title"
-  month: 9
+  journal: "RETINA"
+  month: 11
   start: 1 # First page number
   end: 10 # Last page number
-  title: "My awesome research software"
+  title: "OCTess: An Optical Character Recognition Algorithm for Automated Data Extraction of Spectral Domain Optical Coherence Tomography Reports"
   issue: 1
   volume: 1
-  year: 2021
+  year: 2023
